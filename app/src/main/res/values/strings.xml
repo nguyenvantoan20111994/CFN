@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CFN</string>
+    <string name="language_choice">言語選択</string>
+    <string name="about_login">CFN会員登録がお済みの方</string>
+    <string name="username">電子メールアドレス</string>
+    <string name="password">パスワード</string>
+    <string name="forget_password">パスワードを忘れた方はこちら</string>
+    <string name="title_login">ログイン</string>
+    <string name="login">ログイン</string>
+    <string name="title_btn_facebook">フェイスブックログイン</string>
+    <string name="register_member">CFN会員登録がまだの方</string>
+    <string name="title_btn_register">新規会員登録</string>
+</resources>
